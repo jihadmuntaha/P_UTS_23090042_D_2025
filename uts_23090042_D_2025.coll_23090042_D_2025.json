@@ -1,0 +1,20 @@
+[{
+  "_id": {
+    "$oid": "681c10db620143857c865b9e"
+  },
+  "name": "Sepatu Nike Air Max 213",
+  "size": [
+    "41",
+    "42",
+    "43",
+    "44",
+    "45"
+  ],
+  "color": [
+    "Red",
+    "White",
+    "Blue",
+    "Green"
+  ],
+  "quantity": 45
+}]
